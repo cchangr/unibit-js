@@ -25,5 +25,8 @@
   "homepage": "https://github.com/unibit-api/unibit-js#readme",
   "dependencies": {
     "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
   }
 }
